@@ -30,6 +30,6 @@ This project served as a creative exploration into the world of fractals, blendi
 
 Feel free to explore, modify, and create your own fractal masterpieces!
 
-![Dragon Curve](Simple%20L-Systems/dragonCurve.png)
+![Dragon Curve](Simple L-systems/dragonCurve.png)
 
 *Dragon Curve - A mesmerizing pattern created with a simple L-System.*
