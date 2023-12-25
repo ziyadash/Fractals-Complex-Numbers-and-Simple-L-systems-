@@ -30,6 +30,6 @@ This project served as a creative exploration into the world of fractals, blendi
 
 Feel free to explore, modify, and create your own fractal masterpieces!
 
-![Dragon Curve](Simple L-systems/dragonCurve.png)
+![Dragon Curve](JuliaSets/exampleJulia1.png)
 
-*Dragon Curve - A mesmerizing pattern created with a simple L-System.*
+*Julia sets for different c values can result in beautiful, complex patterns*
